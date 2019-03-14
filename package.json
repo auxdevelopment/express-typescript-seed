@@ -1,0 +1,25 @@
+{
+  "name": "express-typescript-seed",
+  "version": "1.0.0",
+  "description": "Simple Express seed project using TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auxdevelopment/express-typescript-seed.git"
+  },
+  "author": "Benjamin Auinger",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/auxdevelopment/express-typescript-seed/issues"
+  },
+  "homepage": "https://github.com/auxdevelopment/express-typescript-seed#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "@types/express": "^4.16.1"
+  }
+}
