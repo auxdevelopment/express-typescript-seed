@@ -4,7 +4,7 @@ const bodyparser = require('body-parser');
 const cors = require('cors');
 
 const SERVER_PORT = 3000;
-const routes = require('./routes/routes');
+const routes = require('./routes/base');
 
 
 // ----------------- middleware configuration -------------------------
